@@ -13,8 +13,8 @@
 
 ## Contenu du dépôt
 
-- **[Résumé illustré du projet](resume-yumio-illustre.pdf)** — En deux pages, découvrez le catalogue et suivez une recette de fondant au chocolat, de la maquette Figma à l’écran de l’application.
-- **[Dossier de projet](dossier-projet-yumio-final.pdf)** — Le dossier présente les besoins des utilisateurs, les maquettes, l’architecture, le modèle de données et la réalisation de l’interface et de l’API.
+- **[Résumé illustré du projet](esteban-houppermans-resume.pdf)** — En deux pages, découvrez le catalogue et suivez une recette de fondant au chocolat, de la maquette Figma à l’écran de l’application.
+- **[Dossier de projet](esteban-houppermans-dossier-projet.pdf)** — Le dossier présente les besoins des utilisateurs, les maquettes, l’architecture, le modèle de données et la réalisation de l’interface et de l’API.
 
 ---
 
